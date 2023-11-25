@@ -1,2 +1,2 @@
 # course-Operating-System-Security
-assignments, labs of the course
+assignments, labs, notes of the course
